@@ -1,0 +1,51 @@
+/* Global styles for the document */
+
+#wrapper {
+    width: 80%;
+    background-color: #FEFAEB;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Title{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #8C3826;
+}
+
+body {
+    background-color: #FCEBB6; /* Background color */
+    color: #221811; /* Text color */
+    font-family: Tahoma, Arial, sans-serif; /* Font family */
+}
+
+/* Styles for the header element */
+header {
+    background-color: #D2B48C; /* Background color */
+    color: #8C3826; /* Text color */
+    text-align: center; /* Centered text */
+}
+
+/* Styles for h1 element */
+h1 {
+    line-height: 200%; /* Line height */
+}
+
+/* Styles for h2 element */
+h2 {
+    color: #8C3826; /* Text color */
+}
+
+/* Styles for nav element */
+nav {
+    text-align: center; /* Centered text */
+    font-weight: bold; /* Bold text */
+}
+
+/* Styles for the footer element */
+footer {
+    background-color: #D2B48C; /* Background color */
+    font-size: .60em; /* Font size */
+    text-align: center; /* Centered text */
+    font-style: italic; /* Italic text */
+}
